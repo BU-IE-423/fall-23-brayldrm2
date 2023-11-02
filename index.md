@@ -1,4 +1,9 @@
-# Project Part-1
-### Html file
-[link](https://github.com/BU-IE-423/fall-23-brayldrm2/blob/main/Part-1.html)
-### Report
+This is progress journal for both group and individual works.
+
+## Part-1
+
+### Code Document: 
+[Part-1 Code]()
+
+### Report:
+[Part-1 Report]()
