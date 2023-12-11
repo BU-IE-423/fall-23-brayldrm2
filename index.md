@@ -11,8 +11,8 @@ This is progress journal for both group and individual works.
 ## Part-2
 
 ### Code Document: 
-[Part-1 Code](Project-Part-II.ipynb)
+[Part-2 Code](Project-Part-II.ipynb)
 
 ### Report:
-[Part-1 Report](Project-Part-II.html)
+[Part-2 Report](Project-Part-II.html)
 
